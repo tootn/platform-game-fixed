@@ -1,4 +1,7 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"o_wall","order":1,"path":"objects/o_wall/o_wall.yy",},
+    {"name":"sInvisibleWall","order":1,"path":"sprites/sInvisibleWall/sInvisibleWall.yy",},
+  ],
 }
