@@ -2,6 +2,12 @@
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
     {"name":"o_wall","order":1,"path":"objects/o_wall/o_wall.yy",},
+    {"name":"background","order":2,"path":"sprites/background/background.yy",},
+    {"name":"clouds","order":7,"path":"sprites/clouds/clouds.yy",},
+    {"name":"jump","order":4,"path":"sprites/jump/jump.yy",},
     {"name":"sInvisibleWall","order":1,"path":"sprites/sInvisibleWall/sInvisibleWall.yy",},
+    {"name":"standing","order":5,"path":"sprites/standing/standing.yy",},
+    {"name":"walk","order":8,"path":"sprites/walk/walk.yy",},
+    {"name":"walls","order":6,"path":"sprites/walls/walls.yy",},
   ],
 }
