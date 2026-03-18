@@ -34,6 +34,7 @@
   },
   "name":"GML Platformer",
   "resources":[
+    {"id":{"name":"o_games","path":"objects/o_games/o_games.yy",},},
     {"id":{"name":"O_player","path":"objects/O_player/O_player.yy",},},
     {"id":{"name":"o_wall","path":"objects/o_wall/o_wall.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},

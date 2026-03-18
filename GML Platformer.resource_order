@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"o_games","order":2,"path":"objects/o_games/o_games.yy",},
     {"name":"o_wall","order":1,"path":"objects/o_wall/o_wall.yy",},
     {"name":"background","order":2,"path":"sprites/background/background.yy",},
     {"name":"clouds","order":7,"path":"sprites/clouds/clouds.yy",},
