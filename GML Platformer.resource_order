@@ -7,6 +7,7 @@
     {"name":"clouds","order":7,"path":"sprites/clouds/clouds.yy",},
     {"name":"jump","order":4,"path":"sprites/jump/jump.yy",},
     {"name":"sInvisibleWall","order":1,"path":"sprites/sInvisibleWall/sInvisibleWall.yy",},
+    {"name":"slives","order":9,"path":"sprites/slives/slives.yy",},
     {"name":"standing","order":5,"path":"sprites/standing/standing.yy",},
     {"name":"walk","order":8,"path":"sprites/walk/walk.yy",},
     {"name":"walls","order":6,"path":"sprites/walls/walls.yy",},

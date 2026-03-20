@@ -42,6 +42,7 @@
     {"id":{"name":"clouds","path":"sprites/clouds/clouds.yy",},},
     {"id":{"name":"jump","path":"sprites/jump/jump.yy",},},
     {"id":{"name":"sInvisibleWall","path":"sprites/sInvisibleWall/sInvisibleWall.yy",},},
+    {"id":{"name":"slives","path":"sprites/slives/slives.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"standing","path":"sprites/standing/standing.yy",},},
     {"id":{"name":"walk","path":"sprites/walk/walk.yy",},},
